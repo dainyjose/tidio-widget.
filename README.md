@@ -10,8 +10,7 @@ A minimal example showing how to integrate the **Tidio Chat Widget** into a webp
 - [Features](#features)  
 - [Prerequisites](#prerequisites)  
 - [Usage](#usage)  
-- [Customization](#customization)  
-- [License](#license)  
+- [Customization](#customization)   
 
 ---
 
@@ -58,8 +57,4 @@ You can use it as a template to add customer support, live chat or chatbot funct
 **Dainy Jose**  
 [GitHub](https://github.com/dainyjose) | [LinkedIn](https://linkedin.com/in/dainyjose)
 
----
 
-## License
-
-[MIT](./LICENSE)
